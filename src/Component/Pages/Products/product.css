@@ -1,0 +1,40 @@
+.product_grid_single {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+}
+
+.temp:hover .tempImg {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+.temp {
+  overflow: hidden;
+}
+.icon1 {
+  transform: translateY(10px);
+  transition: 0.5s;
+  opacity: 0;
+}
+.icon2 {
+  transform: translateY(30px);
+  transition: 0.5s;
+  opacity: 0;
+}
+.icon3 {
+  transform: translateY(40px);
+  transition: 0.5s;
+  opacity: 0;
+}
+.temp:hover .icon1 {
+  transform: translateY(0px);
+  opacity: 100;
+}
+.temp:hover .icon2 {
+  transform: translateY(0px);
+  opacity: 100;
+}
+.temp:hover .icon3 {
+  transform: translateY(0px);
+  opacity: 100;
+}

@@ -1,0 +1,11 @@
+.productBg {
+  background-image: url("../../image/blure.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.grid_product {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+}

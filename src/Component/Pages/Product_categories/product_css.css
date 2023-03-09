@@ -1,0 +1,16 @@
+.product_grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(256px, 1fr));
+  gap: 2rem;
+}
+.bg_main {
+  background: rgb(218, 232, 250);
+  background: linear-gradient(
+    346deg,
+    rgba(218, 232, 250, 0.9974836713812324) 0%,
+    rgba(224, 243, 246, 1) 0%,
+    rgba(141, 209, 219, 0.6744499635160639) 67%,
+    rgba(224, 243, 246, 0.4413038961003336) 100%
+  );
+  /* background-color: #f0f6fe; */
+}

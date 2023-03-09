@@ -1,0 +1,42 @@
+.bannerDiscount {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+img.discount {
+  height: 100%;
+  width: 100%;
+}
+
+img.discount2 {
+  height: 100%;
+  width: 100%;
+}
+
+.discount {
+  overflow: hidden;
+  transition: 0.5s;
+}
+.discount:hover {
+  transform: scale(1.1);
+  transition: 0.5s ease-in-out;
+  overflow: hidden;
+}
+
+.discount2 {
+  overflow: hidden;
+  transition: 0.5s;
+}
+.discount2:hover {
+  transform: scale(1.1);
+  transition: 0.5s ease-in-out;
+  overflow: hidden;
+}
+
+.rightBanner {
+  overflow: hidden;
+}
+.animationDiscount {
+  overflow: hidden;
+}

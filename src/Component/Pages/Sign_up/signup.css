@@ -1,0 +1,7 @@
+.sign_up {
+  background-image: url("../../image/blure.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
