@@ -67,7 +67,9 @@ const router = createBrowserRouter([
         children: [
             {
                 path: "/deshboard",
-                element: <Testimonial />
+                element: <Private_route>
+                    <Testimonial />
+                </Private_route>
             },
             {
                 path: "/deshboard/add_product",

@@ -54,7 +54,7 @@ const Add_product = () => {
     const newProduct = {
       ...data,
       image: imgUrl,
-      data: format(times, "PP"),
+      date: format(times, "PP"),
     };
 
     console.log(newProduct);

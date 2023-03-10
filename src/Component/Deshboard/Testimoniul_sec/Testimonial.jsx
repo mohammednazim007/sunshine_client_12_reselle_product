@@ -27,7 +27,7 @@ const Testimonial = () => {
                 href="#"
                 className="text-2xl font-bold hover:underline"
               >
-                Welcome to your deshboard
+                Welcome to your deshboard panel
               </a>
               <p className="mt-2">
                 Tamquam ita veritas res equidem. Ea in ad expertus paulatim
