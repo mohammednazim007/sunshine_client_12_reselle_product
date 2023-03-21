@@ -80,17 +80,17 @@ https://startling-tapioca-1cbc48.netlify.app/
 
 
 ## Technology
-React
-Tailwindcss
-Daisy ui
-React Hood forms
-React router dom
-React query
-.env for security
-React-image-magnify
-React-hot-toast
-Firebase
-Axios
+1. React
+2. Tailwindcss
+3. Daisy ui
+4. React Hood forms
+5. React router dom
+6. React query
+7. .env for security
+8. React-image-magnify
+9. React-hot-toast
+10. Firebase
+11. Axios
 
 ## Backend
 Node.js, express
