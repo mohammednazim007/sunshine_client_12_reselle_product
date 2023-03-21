@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+
+ ## Ruper Furniture ( Full-Stack project )
 ![ruper](https://user-images.githubusercontent.com/91420693/226589143-8eb1f720-8a91-4c1f-adb3-3cc4681fbab0.png)
 
 
@@ -57,7 +59,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ============================================================================================================================================
-## Demo link https://startling-tapioca-1cbc48.netlify.app/
+## Demo link 
+https://startling-tapioca-1cbc48.netlify.app/
+
+## Features 
+---------------------------------------------------------------------------------------------------
 
 1. If a user visits the landing page he/she will see all products & all contents.
 2. A user can log in, logout & sign up
